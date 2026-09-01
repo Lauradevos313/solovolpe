@@ -18,7 +18,7 @@ Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github o
 
 checkout vragen:
 1 Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
-Een source hosting platform is een online omgeving waar je de broncode van jouw eigen domein kan opslaan en aanpassen. Ik heb gekozen voor Transip
+Een source hosting platform is een online opslag en samenwerkings omgeving voor broncode van websites en software. Ik heb hierbij gekozen voor Github omdat ik hier vorig schooljaar ook mee heb gewerkt en dit dus al gewend ben.
 
 2 Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
 Mijn domeinnaam is solovolpe. Ik heb dit gekoppeld aan mijn pagina door de stappen op DLO te doorlopen, waaronder de DNS instellingen op transip aanpassen zodat het gelinkt is met github en mijn persoonlijke domein invoeren op github zodat de repository daar naar toe forward.
