@@ -4,9 +4,97 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### [...]
+### 4 sept - [Workshop]
 
-[...]
+DEEP DIVE 1 - TYPOGRAFIE
+
+voorbereiding notities:
+
+type-together notes:
+-> needs of typeface decide the form of the characters
+-> having just a few typefaces is always better than using too many
+-> the type of reading media (research, books, etc) is also an important factor
+-> does the font contain glyphs/special chatacters needed to produce the work?
+-> be careful when using 'trendy' fonts, they can quickly make a site look outdated when the trend passes.
+
+arielsalminen notes:
+-> old GUI were essentially just text
+-> good writing = good design
+-> good copywriting & typography make up 95% of interface design
+-> identification of individual letters plays the most critical part in the reading process
+-> an ideal UI typeface doesn't scream for attention.
+
+Tijdens de les zaten we maar met 4 mensen, dus het was een hele fijne deep dive om veel info te krijgen.
+
+-> keep track of wat je blijft prikkelen/wat je tof vindt.
+hoe kies je een passend lettertype?
+-> stijl
+->leesbaarheid
+-> opties
+->beschikbaarheid
+
+we hebben een opdracht gedaan om een (volgends ons) passend font bij 1 van 2 stijlen van Dolly Parton te kiezen
+hierbij hadden we een foto van Dolly in een country outfit en eentje in een meer Hollywood glamour outfit.
+
+ik had de volgende keywords bij de fotos :
+foto 1:
+-country
+-Round
+-zacht
+-lief
+-upbeat
+-darling
+-sweetheart
+-yeehaw
+-texas
+-curvy
+
+foto 2:
+-glamour
+-hollywood
+-diva
+-strak
+-silver
+-sparkles
+-curvy
+
+ik koos om met de country foto te werken en met de volgende key words:
+-Darling
+->honey
+->sweet
+->baby
+->kind
+->lovely
+
+-Upbeat
+->helpful
+->happy
+->sweet
+->extrovert
+->positive
+
+-zacht
+->voorzichtig
+->cotton
+->lief
+->aardig
+->wolken
+
+ik heb de 3 woorden: honey, happy en lief gekozen om een font mee te zoeken. hierbij ben ik terecht gekomen bij het font 'good karma'
+
+DEEP DIVE 2 - SCHETSEN
+
+uitganspunten van een goede schets:
+-> idee komt duidelijk over voor 'newbies'
+-> annotaties in andere kleur en in blokletters
+-> goede verhoudingen in vergelijking met het echte/eind product
+-> consistentie in personages (als die worden gebruikt.)
+-> content vormgeven
+
+slechte schets:
+-> geen annotaties
+-> onduidelijk wat het idee is
+-> formaat wisselt door heel schets heen.
 
 ### 2 sept - [Workshop]
 
@@ -14,7 +102,7 @@ DEEP DIVE 1 - HTML & CSS BASICS
 
 Vraag: Met cascades, is er een voorkeur nu voor een specifiek soort stylesheet?
 Antwoord: Normaal gesproken ligt het aan hoe je de sheet koppelt aan de pagina.
-Inline wordt gezien als een bad practice, maar is wel het meest krachtigst
+Inline wordt gezien als een bad practice, maar is wel het meest krachtigst.
 In Head is handig voor one pagers, omdat het maar 1 request hoeft te sturen.
 Het is, however wel een bad practice bij meerdere pages.
 Voor nu is de voorkeur voor een external stylesheet zoals bijgeleverd in de model.
@@ -23,6 +111,10 @@ Vraag: Kan je em en strong gebruiken wanneer je wilt, of is het sparend net als 
 Antwoord: Er was geen tijd meer om mijn tweede vraag te stellen, deze heb ik geparkeerd voor vrijdag en zal dan ook deze learning log aanpassen met het antwoord er op
 
 Ik heb voor de rest geen notities gemaakt, dit was voor mij meer een refresher van de kennis die al ik heb dan echt een deep dive.
+
+mozilla 'verwondert':
+
+audio en video: ik weet er al wat vanaf maar wil er graag meer over leren.
 
 DEEP DIVE 2 - CSS: FONTS MET KLEUR EN EFFECTEN
 
@@ -52,11 +144,11 @@ Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github o
 
 checkout vragen:
 1 Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
-Een source hosting platform is een online opslag en samenwerkings omgeving voor broncode van websites en software. Ik heb hierbij gekozen voor Github omdat ik hier vorig schooljaar ook mee heb gewerkt en dit dus al gewend ben.
+-> Een source hosting platform is een online opslag en samenwerkings omgeving voor broncode van websites en software. Ik heb hierbij gekozen voor Github omdat ik hier vorig schooljaar ook mee heb gewerkt en dit dus al gewend ben.
 
 2 Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
-Mijn domeinnaam is solovolpe. Ik heb dit gekoppeld aan mijn pagina door de stappen op DLO te doorlopen, waaronder de DNS instellingen op transip aanpassen zodat het gelinkt is met github en mijn persoonlijke domein invoeren op github zodat de repository daar naar toe forward.
+-> Mijn domeinnaam is solovolpe. Ik heb dit gekoppeld aan mijn pagina door de stappen op DLO te doorlopen, waaronder de DNS instellingen op transip aanpassen zodat het gelinkt is met github en mijn persoonlijke domein invoeren op github zodat de repository daar naar toe forward.
 
 3 Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 
-Je kan de aanpassingen aan jouw pagina maken via VSCodium, en via daar committen naar Github, waar de veranderingen worden gepubliceerd.
+->Je kan de aanpassingen aan jouw pagina maken via VSCodium, en via daar committen naar Github, waar de veranderingen worden gepubliceerd.
